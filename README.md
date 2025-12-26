@@ -23,7 +23,7 @@ AI Developer with **2+ years of experience** specializing in **Computer Vision**
 
 🎓 **MS Mechatronics (AI & Robotics)** from NUST with **3.45 GPA**  
 💼 **AI Developer** at CENTAIC-NASTP | **STEM Robotics Instructor**  
-🔬 **2 Research Publications** (Under Review)  
+🔬 **2 Research Publications** (Under Process)  
 🏅 **PEC Registered Engineer** (MECHATRO/04535)  
 📊 **8+ Production-Ready AI Projects**
 
@@ -35,8 +35,8 @@ AI Developer with **2+ years of experience** specializing in **Computer Vision**
 - 🎯 **Security Surveillance** with intruder detection and weapon detection
 - 🐟 **AI-powered Fish Tracking** for fisheries management
 - 🌾 **Smart Agriculture** solutions for pest detection and precision farming
-- 🤖 **STEM Education** - Teaching robotics to 500+ students
-- 🚁 **UAV & Embedded Systems** for industrial automation
+- 🤖 **STEM Education** - Teaching robotics to School students
+- 🚁 **Embedded Systems** for EDGE AI. (Arduino, Jetson, Rasberry Pi)
 
 ---
 
@@ -67,29 +67,29 @@ expertise = {
 
 ### 🔥 [Fire & Smoke Detection System](https://github.com/Qaiser007khan/Fire-and-smoke-detection)
 **MS Thesis Project** | Real-time fire and smoke detection optimized for edge devices
-- 🎯 **95%+ Accuracy** in complex environments
-- ⚡ **Real-time Performance**: 30+ FPS on Jetson
+- 🎯 **About 90% Accuracy** in complex environments
+- ⚡ **Real-time Performance**: 20+ FPS on Jetson
 - 🚀 **Tech**: YOLOv8, PyTorch, OpenCV, Edge AI
-- 📄 **Publication**: Under Review
+- 📄 **Publication**: In Progress
 
 ### 🚨 [Intruder Detection & Distance Estimation](https://github.com/Qaiser007khan/Intruder-Detection-System)
 **CENTAIC Project 2025** | Advanced surveillance with accurate distance measurement
 - 📏 **Distance Estimation**: < 5% error
-- 🎯 **Detection Rate**: 95%+
-- 🔧 **Stack**: YOLO, Depth Estimation, Jetson
-- 💼 **Status**: Production
+- 🎯 **Detection Rate**: 90% plus
+- 🔧 **Stack**: YOLO, Depth Estimation, Jetson, Cctv Streams
+- 💼 **Status**: Deployed
 
 ### 🔫 [Real-Time Weapon Detection System](https://github.com/Qaiser007khan/Weapon-Detection-System)
-**CENTAIC Project 2025** | Automated threat detection with instant alerts
-- ⚡ **35 FPS** real-time processing
-- 📊 **94%+ Accuracy** with < 3% false positives
-- 🚨 **Automated Alerts**: Email, SMS, Dashboard
-- 🎯 **Applications**: Airports, schools, public venues
+**CENTAIC Project 2025** | Automated Weapon detection
+- ⚡ **30 FPS** real-time processing
+- 📊 **85% Accuracy** with < 10% false positives
+- 🚨 **Automated Alerts**: Fires alerts on weapon detection
+- 🎯 **Applications**: Airports, schools, public venues security
 
-### 🐟 [Fish Detection & Classification System](https://github.com/Qaiser007khan/Fish-Tracking-Sonar)
+### 🐟 [Sonar based Fish Detection & Classification System](https://github.com/Qaiser007khan/Fish-Tracking-Sonar)
 **Commercial Project** | Kemat Consulting (UK) | Nov 2024 – Mar 2025
-- 🔍 **Species Classification**: Salmon & Trout (92%+ accuracy)
-- 📊 **Tracking**: DeepSORT + Kalman Filter
+- 🔍 **Species Classification**: Salmon & Trout (92%+ accuracy) -- (Based on length)
+- 📊 **Tracking**: Kalman Filter 
 - 🌊 **Sonar Analysis**: Real-time video processing
 - 💼 **Client**: Kemat Consulting (UK) & Grosvenor
 
@@ -101,13 +101,13 @@ expertise = {
 - 🐠 **Impact**: Marine research & fisheries
 
 ### 🦟 [Oriental Fruit Fly Detection](https://github.com/Qaiser007khan/Fruit-Fly-Detection-SmartAg)
-**Smart Agriculture 2024** | Publication Pending
+**Smart Agriculture 2024** 
 - 🎯 **96%+ Detection Accuracy**
-- 🔍 **SAHI Algorithm**: Small object detection
-- 📊 **Counting Error**: < 2%
+- 🔍 **SAHI Algorithm**: Helpful in Small object detection and counting
+- 📊 **Counting Error**: less than 2%
 - 🌱 **Impact**: Pest management, crop protection
 
-### 🌿 [Tobacco & Weeds Detection System](https://github.com/Qaiser007khan/Smart-Agriculture-Sprayer)
+### 🌿 [Tobacco Detection System](https://github.com/Qaiser007khan/Smart-Agriculture-Sprayer)
 **ARAL/NCRA Funded** | Smart precision spraying
 - 💧 **60% Chemical Reduction**
 - 🎯 **94% Detection Accuracy**
@@ -118,8 +118,8 @@ expertise = {
 **BSc Thesis** | Medical image processing system
 - 🏥 **89% Detection Accuracy**
 - 🔬 **Segmentation**: Dice Score 0.85
-- 💻 **Tech**: MATLAB, Image Processing Toolbox
-- 🎓 **Year**: 2020
+- 💻 **Tech**: python, watershed segmentation 
+- 🎓 **Year**: BSc Thesis (2020)
 
 ---
 
@@ -195,12 +195,12 @@ expertise = {
 
 **🔬 AI Developer** | **CENTAIC-NASTP, Islamabad** | *June 2024 – Present*
 - Developing computer vision solutions for security and surveillance
-- Real-time fire, smoke, intruder, and weapon detection systems
-- Edge AI deployment on Jetson devices
+- Working on real time detection systems
+- Deployment of system for real time application
 
 **🤖 STEM Robotics Instructor** | **Cosmic Space Systems** | *Jan 2025 - July 2025*
 - Establishing Discovery Labs in educational institutions
-- Teaching robotics, Arduino, and programming to 500+ students
+- Teaching robotics, Arduino, 3D printing and programming to students
 - Conducting interactive STEM workshops
 
 ### 💻 Recent Projects
@@ -229,7 +229,7 @@ expertise = {
 ### 🎯 Project Impact
 - **8+ Production Systems** deployed
 - **1 Commercial Client** (International)
-- **2 Research Papers** under review
+- **2 Research Papers** In Progress
 - **500+ Students** trained in STEM/Robotics
 - **60% Chemical Reduction** in agriculture spraying
 - **95%+ Accuracy** in security systems
@@ -270,13 +270,13 @@ expertise = {
 
 I'm always interested in collaborating on innovative AI, Computer Vision, and Robotics projects!
 
-**📧 Email**: [qkhan.mts21ceme@student.nust.edu.pk](mailto:qkhan.mts21ceme@student.nust.edu.pk)  
+**📧 Email**: [qaiserkhan.centaic@gmail.com](mailto:qaiserkhan.centaic@gmail.com)  
 **💼 LinkedIn**: [Qaiser Khan](https://www.linkedin.com/in/engr-qaiser-khan-520252112)  
 **📱 WhatsApp**: [+92-318-9000211](https://wa.me/923189000211)  
 **📍 Location**: Islamabad, Pakistan
 
 ### 🌟 Open to:
-- 🤝 Collaborative research projects
+- 🤝 Funded research projects or positions (PhD)
 - 💼 AI/ML consulting opportunities
 - 🎓 Academic collaborations
 - 🚀 Startup ventures in AI/Robotics
