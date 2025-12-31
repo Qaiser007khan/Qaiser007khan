@@ -65,22 +65,26 @@ expertise = {
 
 ## 🏆 Featured Projects
 
-### 🔥 [Fire & Smoke Detection System](https://github.com/Qaiser007khan/Fire-and-smoke-detection)
-**MS Thesis Project** | Real-time fire and smoke detection optimized for edge devices
-- 🎯 **About 90% Accuracy** in complex environments
-- ⚡ **Real-time Performance**: 20+ FPS on Jetson
-- 🚀 **Tech**: YOLOv8, PyTorch, OpenCV, Edge AI
-- 📄 **Publication**: In Progress
+### 🚀 [Automatic License Plate Recognition](https://github.com/Qaiser007khan/Automatic-license-plate-recognition-and-logging-system/tree/main)
+**NASTP Project 2025** | ALPR system
+- ✨ ** GPU-Accelerated: Utilizes CUDA for real-time processing**
+- 🎯 **High Accuracy: 95%+ detection accuracy with advanced preprocessing**
+- 🔄 **Multi-Frame Aggregation: Combines readings across frames for better accuracy**
+- 📹 **Multi-Camera Support: Process multiple RTSP streams simultaneously**
+- 🖥️ **Beautiful GUI: Modern Tkinter interface with real-time statistics**
+- 🔧 **Flexible: Supports EasyOCR & PaddleOCR, TensorRT & PyTorch models**
+- 📊 **Complete Logging: CSV export with interpolation for missing frames**
 
+  
 ### 🚨 [Intruder Detection & Distance Estimation](https://github.com/Qaiser007khan/Intruder-Detection-System)
-**CENTAIC Project 2025** | Advanced surveillance with accurate distance measurement
+**NASTP Project 2025** | Advanced surveillance with accurate distance measurement
 - 📏 **Distance Estimation**: < 5% error
 - 🎯 **Detection Rate**: 90% plus
 - 🔧 **Stack**: YOLO, Depth Estimation, Jetson, Cctv Streams
 - 💼 **Status**: Deployed
 
 ### 🔫 [Real-Time Weapon Detection System](https://github.com/Qaiser007khan/Weapon-Detection-System)
-**CENTAIC Project 2025** | Automated Weapon detection
+**NASTP Project 2025** | Automated Weapon detection
 - ⚡ **30 FPS** real-time processing
 - 📊 **85% Accuracy** with < 10% false positives
 - 🚨 **Automated Alerts**: Fires alerts on weapon detection
@@ -114,12 +118,25 @@ expertise = {
 - 🚜 **Hardware**: Arduino, ESP32, Spray Control
 - 🌱 **Applications**: Precision agriculture
 
+### 🔥 [Fire & Smoke Detection System](https://github.com/Qaiser007khan/Fire-and-smoke-detection)
+**MS Thesis Project** | Real-time fire and smoke detection optimized for edge devices
+- 🎯 **About 90% Accuracy** in complex environments
+- ⚡ **Real-time Performance**: 20+ FPS on Jetson
+- 🚀 **Tech**: YOLOv8, PyTorch, OpenCV, Edge AI
+- 📄 **Publication**: In Progress
+
 ### 🧠 [Brain Tumor MRI Diagnosis](https://github.com/Qaiser007khan/Brain-Tumor-MRI-Diagnosis)
 **BSc Thesis** | Medical image processing system
 - 🏥 **89% Detection Accuracy**
 - 🔬 **Segmentation**: Dice Score 0.85
 - 💻 **Tech**: python, watershed segmentation 
 - 🎓 **Year**: BSc Thesis (2020)
+
+
+
+
+   
+
 
 ---
 
