@@ -371,12 +371,12 @@ I'm always interested in collaborating on innovative AI, Computer Vision, and Ro
 **Command Line Option**:
 ```bash
 # Replace all occurrences (Linux/Mac)
-# Note: Replace YOUR_NEW_USERNAME with your actual GitHub username
-sed -i 's/Qaiser007khan/YOUR_NEW_USERNAME/g' README.md
+# Note: Replace <YOUR_NEW_USERNAME> with your actual GitHub username
+sed -i 's/Qaiser007khan/<YOUR_NEW_USERNAME>/g' README.md
 
 # Replace all occurrences (Mac with backup)
-# Note: Replace YOUR_NEW_USERNAME with your actual GitHub username
-sed -i.bak 's/Qaiser007khan/YOUR_NEW_USERNAME/g' README.md
+# Note: Replace <YOUR_NEW_USERNAME> with your actual GitHub username
+sed -i.bak 's/Qaiser007khan/<YOUR_NEW_USERNAME>/g' README.md
 ```
 
 ---
