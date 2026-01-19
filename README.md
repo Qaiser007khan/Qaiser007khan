@@ -6,6 +6,7 @@
 
 > *"Transforming complex challenges into intelligent solutions through Computer Vision, Deep Learning, and Robotics"*
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qaiser007khan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-qaiser-khan-520252112)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkhan.mts21ceme@student.nust.edu.pk)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923189000211)
@@ -289,6 +290,7 @@ I'm always interested in collaborating on innovative AI, Computer Vision, and Ro
 
 **📧 Email**: [qaiserkhan.centaic@gmail.com](mailto:qaiserkhan.centaic@gmail.com)  
 **💼 LinkedIn**: [Qaiser Khan](https://www.linkedin.com/in/engr-qaiser-khan-520252112)  
+**🐙 GitHub**: [@Qaiser007khan](https://github.com/Qaiser007khan)  
 **📱 WhatsApp**: [+92-318-9000211](https://wa.me/923189000211)  
 **📍 Location**: Islamabad, Pakistan
 
