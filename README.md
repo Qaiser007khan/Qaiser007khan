@@ -350,3 +350,33 @@ I'm always interested in collaborating on innovative AI, Computer Vision, and Ro
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
+---
+
+## 📝 How to Update Username
+
+**Yes, you can change the username `Qaiser007khan`!** Here's how:
+
+1. **Change your GitHub username** in GitHub settings first
+2. **Update repository name** to match new username
+3. **Update all references** in this README.md (15 locations):
+   - Header section: GitHub profile badge link
+   - Header section: Profile views counter
+   - Featured Projects section: All 9 project repository links
+   - GitHub Statistics section: Stats widgets (3 widgets)
+   - Contact section: GitHub profile link
+
+**Find and Replace**: Use your editor's find/replace feature to replace all instances of `Qaiser007khan` with your new username.
+
+**Command Line Option**:
+```bash
+# Replace all occurrences (Linux/Mac)
+# Note: Replace <YOUR_NEW_USERNAME> with your actual GitHub username
+sed -i 's/Qaiser007khan/<YOUR_NEW_USERNAME>/g' README.md
+
+# Replace all occurrences (Mac with backup)
+# Note: Replace <YOUR_NEW_USERNAME> with your actual GitHub username
+sed -i.bak 's/Qaiser007khan/<YOUR_NEW_USERNAME>/g' README.md
+```
+
+---
