@@ -360,20 +360,22 @@ I'm always interested in collaborating on innovative AI, Computer Vision, and Ro
 1. **Change your GitHub username** in GitHub settings first
 2. **Update repository name** to match new username
 3. **Update all references** in this README.md (15 locations):
-   - Line 9: GitHub profile badge link
-   - Line 15: Profile views counter
-   - Lines 69, 80, 87, 94, 101, 108, 115, 122, 129: Project repository links
-   - Lines 174, 176, 178: GitHub stats widgets
-   - Line 293: GitHub profile link in contact section
+   - Header section: GitHub profile badge link
+   - Header section: Profile views counter
+   - Featured Projects section: All 9 project repository links
+   - GitHub Statistics section: Stats widgets (3 widgets)
+   - Contact section: GitHub profile link
 
 **Find and Replace**: Use your editor's find/replace feature to replace all instances of `Qaiser007khan` with your new username.
 
 **Command Line Option**:
 ```bash
 # Replace all occurrences (Linux/Mac)
+# Note: Replace YOUR_NEW_USERNAME with your actual GitHub username
 sed -i 's/Qaiser007khan/YOUR_NEW_USERNAME/g' README.md
 
 # Replace all occurrences (Mac with backup)
+# Note: Replace YOUR_NEW_USERNAME with your actual GitHub username
 sed -i.bak 's/Qaiser007khan/YOUR_NEW_USERNAME/g' README.md
 ```
 
