@@ -6,6 +6,7 @@
 
 > *"Transforming complex challenges into intelligent solutions through Computer Vision, Deep Learning, and Robotics"*
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qaiser007khan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-qaiser-khan-520252112)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkhan.mts21ceme@student.nust.edu.pk)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923189000211)
@@ -90,7 +91,7 @@ expertise = {
 - 🚨 **Automated Alerts**: Fires alerts on weapon detection
 - 🎯 **Applications**: Airports, schools, public venues security
 
-### 🐟 [Sonar based Fish Detection & Classification System](https://github.com/Qaiser007khan/Fish-Tracking-Sonar)
+### 🐟 [Sonar based Fish Detection & Classification System](https://github.com/Qaiser007khan/Sonar-Based-Fish-Detection-and-Tracking)
 **Commercial Project** | Kemat Consulting (UK) | Nov 2024 – Mar 2025
 - 🔍 **Species Classification**: Salmon & Trout (92%+ accuracy) -- (Based on length)
 - 📊 **Tracking**: Kalman Filter 
@@ -104,14 +105,14 @@ expertise = {
 - 🔬 **Techniques**: U-Net, GANs, Color Restoration
 - 🐠 **Impact**: Marine research & fisheries
 
-### 🦟 [Oriental Fruit Fly Detection](https://github.com/Qaiser007khan/Fruit-Fly-Detection-SmartAg)
+### 🦟 [Oriental Fruit Fly Detection](https://github.com/Qaiser007khan/Oriental-Fruit-Flies-Detection-SmartAgriculture)
 **Smart Agriculture 2024** 
 - 🎯 **96%+ Detection Accuracy**
 - 🔍 **SAHI Algorithm**: Helpful in Small object detection and counting
 - 📊 **Counting Error**: less than 2%
 - 🌱 **Impact**: Pest management, crop protection
 
-### 🌿 [Tobacco Detection System](https://github.com/Qaiser007khan/Smart-Agriculture-Sprayer)
+### 🌿 [Tobacco Detection System](https://github.com/Qaiser007khan/Tobacco-detection-for-Smart-Agriculture-Sprayer)
 **ARAL/NCRA Funded** | Smart precision spraying
 - 💧 **60% Chemical Reduction**
 - 🎯 **94% Detection Accuracy**
@@ -125,7 +126,7 @@ expertise = {
 - 🚀 **Tech**: YOLOv8, PyTorch, OpenCV, Edge AI
 - 📄 **Publication**: In Progress
 
-### 🧠 [Brain Tumor MRI Diagnosis](https://github.com/Qaiser007khan/Brain-Tumor-MRI-Diagnosis)
+### 🧠 [Brain Tumor MRI Diagnosis](https://github.com/Qaiser007khan/Brain-Tumor-Diagnosis)
 **BSc Thesis** | Medical image processing system
 - 🏥 **89% Detection Accuracy**
 - 🔬 **Segmentation**: Dice Score 0.85
@@ -289,6 +290,7 @@ I'm always interested in collaborating on innovative AI, Computer Vision, and Ro
 
 **📧 Email**: [qaiserkhan.centaic@gmail.com](mailto:qaiserkhan.centaic@gmail.com)  
 **💼 LinkedIn**: [Qaiser Khan](https://www.linkedin.com/in/engr-qaiser-khan-520252112)  
+**🐙 GitHub**: [@Qaiser007khan](https://github.com/Qaiser007khan)  
 **📱 WhatsApp**: [+92-318-9000211](https://wa.me/923189000211)  
 **📍 Location**: Islamabad, Pakistan
 
