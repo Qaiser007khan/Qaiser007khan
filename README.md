@@ -104,6 +104,7 @@ expertise = {
 - 📊 **Tracking**: Kalman Filter 
 - 🌊 **Sonar Analysis**: Real-time video processing
 - 💼 **Client**: Kemat Consulting (UK) & Grosvenor
+- 🎬 **Live Demos**: [Demo 1 GIF](https://github.com/Qaiser007khan/Sonar-Based-Fish-Detection-and-Tracking/blob/main/demo%20%20videos/Fish.gif) | [Demo 2 GIF](https://github.com/Qaiser007khan/Sonar-Based-Fish-Detection-and-Tracking/blob/main/demo%20%20videos/Fish_1.gif)
 
 ### 🌊 [Underwater Image Enhancement](https://github.com/Qaiser007khan/Underwater-Image-Enhancement)
 **Research Project 2024** | State-of-the-art deep learning for underwater imaging
