@@ -91,7 +91,7 @@ expertise = {
 - 🚨 **Automated Alerts**: Fires alerts on weapon detection
 - 🎯 **Applications**: Airports, schools, public venues security
 
-### 🦺 [PPE Compliance Detection (Construction Site Safety)](PPE)
+### 🦺 [PPE Compliance Detection (Construction Site Safety)](https://github.com/Qaiser007khan/PPE-Detection-Construction-Safety)
 **Computer Vision Safety Project** | PPE monitoring for industrial/construction environments
 - 🧱 **10 Detection Classes**: Hardhat, Mask, Safety Vest, Person, Machinery, Vehicle, and non-compliance classes
 - 🖼️ **Dataset**: 2801 images (Roboflow Construction Site Safety, YOLO format)
