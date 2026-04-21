@@ -26,7 +26,7 @@ AI Developer with **2+ years of experience** specializing in **Computer Vision**
 💼 **AI Developer** at CENTAIC-NASTP | **STEM Robotics Instructor**  
 🔬 **2 Research Publications** (Under Process)  
 🏅 **PEC Registered Engineer** (MECHATRO/04535)  
-📊 **8+ Production-Ready AI Projects**
+📊 **9+ Production-Ready AI Projects**
 
 ---
 
@@ -90,6 +90,13 @@ expertise = {
 - 📊 **85% Accuracy** with < 10% false positives
 - 🚨 **Automated Alerts**: Fires alerts on weapon detection
 - 🎯 **Applications**: Airports, schools, public venues security
+
+### 🦺 [PPE Compliance Detection (Construction Site Safety)](PPE)
+**Computer Vision Safety Project** | PPE monitoring for industrial/construction environments
+- 🧱 **10 Detection Classes**: Hardhat, Mask, Safety Vest, Person, Machinery, Vehicle, and non-compliance classes
+- 🖼️ **Dataset**: 2801 images (Roboflow Construction Site Safety, YOLO format)
+- 🧠 **Training Setup**: YOLO detection pipeline with 100 epochs at 640 image size
+- 🎯 **Use Case**: Real-time worker safety compliance monitoring
 
 ### 🐟 [Sonar based Fish Detection & Classification System](https://github.com/Qaiser007khan/Sonar-Based-Fish-Detection-and-Tracking)
 **Commercial Project** | Kemat Consulting (UK) | Nov 2024 – Mar 2025
@@ -245,7 +252,7 @@ expertise = {
 ## 📈 Impact & Achievements
 
 ### 🎯 Project Impact
-- **8+ Production Systems** deployed
+- **9+ Production Systems** deployed
 - **1 Commercial Client** (International)
 - **2 Research Papers** In Progress
 - **500+ Students** trained in STEM/Robotics
